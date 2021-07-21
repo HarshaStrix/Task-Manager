@@ -1,4 +1,4 @@
-# todolist
+# Task Manager App
 
 A new Flutter project.
 
