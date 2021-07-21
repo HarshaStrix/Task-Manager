@@ -18,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 * Sree Harsha - aka [HarshaStrix][website]
 * My Portfolio Website - [(myfolio-strixblog)][website]
 
+[website]: https://myfolio-strixblog.web.app/
+
 ## Screenshots
 ### Welcome Note Screens
 <img src="images/1.jpg" width="270" height="550"> <img src="images/2.jpg" width="270" height="550"> <img src="images/3.jpg" width="270" height="550">
@@ -65,4 +67,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src="images/7.jpg" width="270" height="550">
 
 
-[website]: https://myfolio-strixblog.web.app/
+
