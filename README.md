@@ -16,9 +16,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Author
 * Sree Harsha - aka [HarshaStrix][website]
-* My Portfolio Website - [(myfolio-strixblog)][website]
+* My Portfolio Website - [(Sree Harsha Donthamsettig)][website]
 
-[website]: https://myfolio-strixblog.web.app/
+[website]: https://donthamsettisreeharsha.web.app/
 
 ## Screenshots
 ### Welcome Note Screens
