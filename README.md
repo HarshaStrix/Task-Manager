@@ -1,16 +1,5 @@
 # StrixTime [Task Manager App]
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 ## Description
 * This application comes with an enhanced design and UI designed using Flutter. This application is very handy to use which helps you organize tasks and stay on top of your deadlines. App comes with handy features like you can edit or delete. You can use it to manage everything from grocery lists to work-related tasks and more.
 
@@ -66,5 +55,15 @@ samples, guidance on mobile development, and a full API reference.
 ### Upon Successful Reset of Password
 <img src="images/7.jpg" width="270" height="550">
 
+## Flutter Documentation
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 
