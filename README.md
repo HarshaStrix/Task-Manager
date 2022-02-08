@@ -5,7 +5,7 @@
 
 ## Author
 * Sree Harsha - aka [HarshaStrix][website]
-* My Portfolio Website - [(Sree Harsha Donthamsettig)][website]
+* My Portfolio Website - [(Sree Harsha Donthamsetti)][website]
 
 [website]: https://donthamsettisreeharsha.web.app/
 
